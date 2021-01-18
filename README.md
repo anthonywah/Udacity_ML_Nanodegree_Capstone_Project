@@ -37,6 +37,13 @@ The structure of this directory looks like below:
 |-5_model_improvement_alternatives.ipynb
 |-6_Summary.ipynb
 |-Ext_features_formula.ipynb
+|-1_data_preparation_and_exploration.html
+|-2_benchmark_model_computation.html
+|-3_target_features_processing.html
+|-4_target_model_training_and_evaluation.html
+|-5_model_improvement_alternatives.html
+|-6_Summary.html
+|-Ext_features_formula.html
 |
 |-README.md
 |-Udacity_ML_Nanodegree_Capstone_Project.pdf
@@ -68,7 +75,7 @@ It is recommended that one starts reading this project from `Udacity_ML_Nanodegr
 
 ### REMARKS:
 
-- In `5_model_improvement_alternatives.ipynb` I tried codes provided in Module 3, Boston Housing example for XGBoost algorithm, but it doesn't work as it always throws me an "can't set attribute error" at the `self.predictor.content_type = 'text/csv'` line. I decided to comment that block for the time being as I realised that it is taking too much time for me on this project.
+- In `5_model_improvement_alternatives.ipynb` I tried codes provided in Module 3, Boston Housing example for XGBoost algorithm, but it doesn't work as it always throws me an "can't set attribute error" at the `self.predictor.content_type = 'text/csv'` line. I decided to comment that block for the time being as I realised that it is taking too much time for me on this project, and further debugging will cost me another month of subscription fee.
 
 
 
