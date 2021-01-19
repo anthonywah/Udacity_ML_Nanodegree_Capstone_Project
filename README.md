@@ -46,7 +46,8 @@ The structure of this directory looks like below:
 |-Ext_features_formula.html
 |
 |-README.md
-|-Udacity_ML_Nanodegree_Capstone_Project.pdf
+|-proposal.pdf
+|-report.pdf
 |
 |-summary_dict.json
 ```
@@ -69,7 +70,9 @@ The structure of this directory looks like below:
 
 As for all the other notebooks, `*.ipynb` contains the model development progress, as noted by the step number and description included in the file name.
 
-It is recommended that one starts reading this project from `Udacity_ML_Nanodegree_Capstone_Project.pdf` to know more about Bitcoin price movements, and then `1_data_preparation_and_exploration.ipynb` and subsequently other notebooks to understand more thoroughly how this project is built. 
+It is recommended that one starts reading this project from `proposal.pdf` to know more about Bitcoin price movements, and then `1_data_preparation_and_exploration.ipynb` and subsequently other notebooks to understand more thoroughly how this project is built. 
+
+Alternatively, you can read `report.pdf` to know what is included more thoroughly.
 
 ---
 
